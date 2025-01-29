@@ -28,7 +28,6 @@
 
 ---
 
-### 📚 **Learning Journey**
 🚧 **Currently Focusing On**:  
 - Machine Learning fundamentals (regression, classification, neural networks)  
 - Data structures and algorithms    
