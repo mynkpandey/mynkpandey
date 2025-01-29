@@ -1,64 +1,67 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mynkpandey.mynkpandey" />
+# 🕸️ Hi, I'm Mayank Pandey
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mayank+Pandey!;" />
-</h1>
+**Machine Learning Learner | Computer Science Student**  
+🎓 Pursuing a degree in Computer Science  
+💻 Passionate about coding, algorithms, and exploring AI/ML technologies  
 
-<h3 align="center">A passionate computer Science Student from India </h3>
+---
 
-<br/>
+### 🛠️ **Tech Stack**
 
-<div align="center">
- 
- 🔭 I’m currently working on **my coding skills**
- 
- 🌱 I’m currently learning **DSA**
+#### **Languages & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-💬 Ask me about **[here](https://github.com/mynkpandey/mynkpandey/issues)**
+#### **Exploring ML/DL**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+</p>
 
-⚡ Fun fact **The Taj Mahal is not a palace.**
+---
 
- </div>
- 
-<div align="center"> 
+### 📚 **Learning Journey**
+🚧 **Currently Focusing On**:  
+- Machine Learning fundamentals (regression, classification, neural networks)  
+- Data structures and algorithms    
+- Building end-to-end ML projects  
+- Contributing to open-source communities  
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mynkpandey&show_icons=true&theme=radical" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkpandey&layout=compact&theme=radical">
+</p>
+
+---
+
+### 🌐 **Connect With Me**
+<p align="left">
+  <a href="https://linkedin.com/in/mayank-pandey-112756243">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="mailto:mayankpandey8534@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/mayank-pandey-112756243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://leetcode.com/mynk_pandey/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
-  <a href="https://github.com/mynkpandey" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" /><br>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java" /><br>
-</div>
+---
 
-<br/>
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=mynkpandey&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mynkpandey&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkpandey&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+👨💻 **Always open to learning, collaborations, and internships!**
