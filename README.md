@@ -1,6 +1,6 @@
 # 🕸️ Hi, I'm Mayank Pandey
 
-**Machine Learning Learner | Computer Science Student**  
+**Machine Learning Student**  
 🎓 Pursuing a degree in Computer Science  
 💻 Passionate about coding, algorithms, and exploring AI/ML technologies  
 
