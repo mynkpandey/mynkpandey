@@ -38,13 +38,15 @@
 
 ### 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mynkpandey&show_icons=true&theme=radical" width="48%">
-</p>
+<!-- Dynamic Stats Cards -->
+<div align="center">
+  <a href="https://github.com/mynkpandey">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynkpandey&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mynkpandey&theme=vision-friendly-dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkpandey&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkpandey&layout=compact&theme=radical">
-</p>
 
 ---
 
@@ -62,5 +64,16 @@
 </p>
 
 ---
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mynkpandey&label=Profile+Views&color=00ff00&style=flat" alt="Visitor Counter"/>
+</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote"/>
+</div>
+
+---
+
 
 👨💻 **Always open to learning, collaborations, and internships!**
